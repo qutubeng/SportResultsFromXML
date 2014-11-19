@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LivescoreData>
+  <Sport SportId="1">
+    <Name language="en">Soccer</Name>
+    <Name language="se">Fotboll</Name>
+    <Category CategoryId="34">
+      <Name language="en">Australia</Name>
+      <Name language="se">Australien</Name>
+      <Tournament TournamentId="144">
+        <Name language="se">Hyundai A-League</Name>
+        <Name language="en">Hyundai A-League en</Name>
+        <Match MatchId="4616735">
+          <MatchDate>2011-01-05T07:30:00</MatchDate>
+          <Team1 TeamId="1029369">
+            <Name language="en">Wellington Phoenix FC</Name>
+            <Name language="se">Wellington</Name>
+          </Team1>
+          <Team2 TeamId="529088">
+            <Name language="en">Melbourne Victory</Name>
+            <Name language="se">Melbourne Victory</Name>
+          </Team2>
+          <Status Code="100">
+            <Name language="en">Ended</Name>
+            <Name language="se">Avslutad</Name>
+          </Status>
+          <Winner>1</Winner>
+          <Scores>
+          <Score type="Period1">
+            	<Team1>6</Team1>
+              	<Team2>0</Team2>
+            </Score>
+          	<Score type="Current">
+          		<Team1>2</Team1>
+                <Team2>0</Team2>
+            </Score>
+            
+            <Score type="Period2">
+            	<Team1>7</Team1>
+              	<Team2>5</Team2>
+            </Score>
+          </Scores>
+          <Goals>
+          </Goals>
+          <Cards>
+          </Cards>
+          <Substitutions>
+          </Substitutions>
+          <Lineups>
+          </Lineups>
+        </Match>
+      </Tournament>
+    </Category>
+    <Category CategoryId="1">
+      <Name language="en">England</Name>
+      <Name language="se">England</Name>
+      <Tournament TournamentId="1">
+        <Name language="en">Premier League</Name>
+        <Name language="se">Premier League</Name>
+        <Match MatchId="4601857">
+          <MatchDate>2011-01-04T21:00:00</MatchDate>
+          <Team1 TeamId="5431228">
+            <Name language="en">Blackpool FC</Name>
+            <Name language="se">Blackpool FC</Name>
+          </Team1>
+          <Team2 TeamId="23960">
+            <Name language="en">Birmingham City</Name>
+            <Name language="se">Birmingham City</Name>
+          </Team2>
+          <Status Code="100">
+            <Name language="en">Ended</Name>
+            <Name language="se">Avslutad</Name>
+          </Status>
+          <Winner>1</Winner>
+          <Scores>
+              <Score type="Current">
+                <Team1>5</Team1>
+                <Team2>1</Team2>
+              </Score>
+          </Scores>
+          <Goals>
+          </Goals>
+          <Cards>
+          </Cards>
+          <Substitutions>
+          </Substitutions>
+          <Lineups>
+          </Lineups>
+        </Match>
+        <Match MatchId="4601859">
+          <MatchDate>2011-01-04T21:00:00</MatchDate>
+          <Team1 TeamId="26511">
+            <Name language="en">Fulham FC</Name>
+            <Name language="se">Fulham FC</Name>
+          </Team1>
+          <Team2 TeamId="94356">
+            <Name language="en">West Bromwich Albion</Name>
+            <Name language="se">West Bromwich Albion</Name>
+          </Team2>
+          <Status Code="100">
+            <Name language="en">Ended</Name>
+            <Name language="se">Avslutad</Name>
+          </Status>
+          <Winner>1</Winner>
+          <Scores>
+              <Score type="Current">
+                <Team1>4</Team1>
+                <Team2>1</Team2>
+              </Score>
+          </Scores>
+          <Goals>
+          </Goals>
+          <Cards>
+          </Cards>
+          <Substitutions>
+          </Substitutions>
+          <Lineups>
+          </Lineups>
+        </Match>
+      </Tournament>
+    </Category>
+  </Sport>
+</LivescoreData>
