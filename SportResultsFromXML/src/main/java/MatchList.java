@@ -45,7 +45,6 @@ public class MatchList extends MatchListSort{
 						categoryValue = elementValue(categoryElement, "Name");
 						
 						// this for the Tournament
-						
 						NodeList tournamentNodeList = categoryElement.getElementsByTagName("Tournament");
 						String tournamentValue ="";
 						if(tournamentNodeList != null && tournamentNodeList.getLength() > 0) {
